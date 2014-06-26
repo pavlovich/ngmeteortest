@@ -1,0 +1,9 @@
+{
+  "name": "ngtest",
+  "description": "yadda",
+  "author": "Peter Pavlovich",
+  "version": "0.0.1",
+  "packages": {
+    "iron-router": {}
+  }
+}
